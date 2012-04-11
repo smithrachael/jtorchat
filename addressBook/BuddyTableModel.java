@@ -1,10 +1,10 @@
-package net.tsu.TCPort.AddressBook;
+package addressBook;
 
 import java.util.List;
 
 import javax.swing.table.AbstractTableModel;
 
-import net.tsu.TCPort.Buddy;
+import alpha.Buddy;
 
 public class BuddyTableModel extends AbstractTableModel {
 	private static final long serialVersionUID = 6840829070420240924L;

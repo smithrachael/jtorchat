@@ -1,8 +1,8 @@
-package net.tsu.TCPort.AddressBook;
+package addressBook;
 
-import net.tsu.TCPort.APIManager;
-import net.tsu.TCPort.Buddy;
-import net.tsu.TCPort.listeners.CommandListener;
+import listeners.CommandListener;
+import alpha.APIManager;
+import alpha.Buddy;
 
 public class AddressBook {
 

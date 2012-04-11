@@ -2,7 +2,7 @@
  * Created by JFormDesigner on Sun Apr 08 15:23:51 BRT 2012
  */
 
-package net.tsu.TCPort.AddressBook;
+package addressBook;
 
 import java.awt.Container;
 import java.util.List;
@@ -13,7 +13,7 @@ import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 import javax.swing.JTable;
 
-import net.tsu.TCPort.Buddy;
+import alpha.Buddy;
 
 import com.jgoodies.forms.factories.CC;
 import com.jgoodies.forms.layout.FormLayout;
